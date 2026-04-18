@@ -1,94 +1,111 @@
 # Cupboard Staples
 
-Ingredients worth keeping stocked based on the recipes in this collection. **Must-haves** appear in multiple recipes; the rest are worth having if you cook those dishes regularly.
+Three tiers: what's always in, what's usually around, and what gets bought for a specific recipe.
 
-*Recipe count: 11 — updated each time a new recipe is added.*
+*Recipe count: 20 — updated each time a new recipe is added.*
 
 ---
 
-## Must-Haves
+## Always In
 
-These appear across multiple recipes and are worth always having in.
+These are genuinely always stocked — if one runs out, replace it on the next shop.
 
-| Item | Recipes |
+### Dry & Tins
+
+| Item | Notes |
 | --- | --- |
-| Garlic | 8 |
-| Olive oil | 5 |
-| Dried oregano | 3 |
-| Natural yoghurt | 3 |
-| Ground turmeric | 3 |
-| Caster sugar | 3 |
-| Ground cumin | 2 |
-| Ground cinnamon | 2 |
-| Chilli flakes | 2 |
-| Garam masala | 2 |
-| Plain flour | 2 |
-| Flaked sea salt | 2 |
-| Eggs | 2 |
+| Garlic | |
+| Tinned tomatoes | |
+| Tomato purée | |
+| Plain flour | |
+| Caster sugar | |
+| Icing sugar | |
+| Cornflour | |
+| Clear honey | |
+| Soy sauce | |
+| Sriracha or similar hot sauce | Any decent chilli sauce |
+
+### Spices & Seasonings
+
+| Item | Notes |
+| --- | --- |
+| Flaked sea salt | |
+| Ground cumin | |
+| Ground turmeric | |
+| Ground cinnamon | |
+| Garam masala | |
+| Dried oregano | |
+| Chilli flakes | |
+| Sweet smoked paprika | |
+| Mustard powder | |
+| Cayenne pepper | |
+| Garlic powder | |
+| Bicarbonate of soda | |
+| Cocoa powder | |
+| Sumac | World food aisle or online |
+
+### Oils
+
+| Item | Notes |
+| --- | --- |
+| Olive oil | |
+| Sunflower oil | Or any neutral oil |
+
+### Fridge
+
+| Item | Notes |
+| --- | --- |
+| Butter | |
+| Eggs | |
+| Cheddar | |
 
 ---
 
-## Spices & Seasonings
+## Usually In
 
-| Item | Recipes | Notes |
-| --- | --- | --- |
-| Bicarbonate of soda | 1 | |
-| Cocoa powder | 1 | |
-| Sweet smoked paprika | 1 | |
-| Mustard powder | 1 | |
-| Cayenne pepper | 1 | |
-| Garlic powder | 1 | |
-| Sumac | 1 | World food aisle or online |
+Keep these topped up where possible, but don't stress if you're out — you'll likely need to check before cooking.
 
----
-
-## Baking
-
-| Item | Recipes | Notes |
-| --- | --- | --- |
-| Icing sugar | 1 | |
-| Vanilla extract or paste | 1 | Paste works just as well as extract |
-| White wine vinegar | 1 | |
-| Red food colouring (bake-stable gel) | 1 | e.g. Dr Oetker Bright Red — avoid "natural" colours, they go brown when baked |
+| Item | Notes |
+| --- | --- |
+| Natural yoghurt | Used in curries and bhajis |
+| Mango chutney | |
+| Pomegranate molasses | World food aisle — worth keeping a bottle in |
+| White wine vinegar | |
+| Vanilla extract or paste | |
+| Low-cal oil spray | e.g. Frylight |
 
 ---
 
-## Tins & Jars
+## Buy for the Recipe
 
-| Item | Recipes | Notes |
-| --- | --- | --- |
-| Tinned tomatoes | 1 | |
-| Tomato purée | 1 | |
-| Soy sauce | 1 | |
-| Sriracha or similar hot sauce | 1 | Any decent chilli sauce works |
-| Cornflour | 1 | |
-| Mango chutney | 1 | |
-| Pomegranate molasses | 1 | World food aisle or online |
-| Clear honey | 1 | |
+These aren't kept as standbys — you buy them when you're planning a specific meal.
 
----
-
-## Dairy & Fridge
-
-| Item | Recipes | Notes |
-| --- | --- | --- |
-| Unsalted butter | 2 | |
-| Cream cheese | 1 | Use cold from the fridge for frosting |
-| Buttermilk | 1 | If unavailable: 240ml whole milk + 1 tbsp white wine vinegar, left 5 minutes |
-| Double cream | 1 | |
-
----
-
-## Oils & Sprays
-
-| Item | Recipes | Notes |
-| --- | --- | --- |
-| Sunflower oil | 2 | Or any neutral oil |
-| Low-cal oil spray | 1 | e.g. Frylight |
+| Item | Used in |
+| --- | --- |
+| Chicken breasts | Chicken Jalfrezi, Chicken Tikka Masala |
+| Chicken thighs (bone-in, skin-on) | Spanish Baked Chicken Thighs |
+| Whole chicken | Thai Pot-Roast Chicken, Beer Can Chicken |
+| Lamb mince | Spicy Middle Eastern Kofte |
+| Tiger prawns | Prawn and Chorizo Bites |
+| Cooking chorizo | Prawn and Chorizo Bites |
+| Aubergines | Aubergine Parmigiana |
+| Mozzarella | Aubergine Parmigiana |
+| Cream cheese | Red Velvet Cake |
+| Buttermilk | Red Velvet Cake — or make it: 240ml whole milk + 1 tbsp white wine vinegar, leave 5 mins |
+| Double cream | Chicken Tikka Masala |
+| Red food colouring (bake-stable gel) | Red Velvet Cake — e.g. Dr Oetker Bright Red |
+| Frozen sweetcorn | Spicy Sweetcorn Fritters |
+| Gram (chickpea) flour | Pickled Onion Bhajis |
+| Rice flour | Pickled Onion Bhajis — or blitz uncooked rice in a spice grinder |
+| Coconut milk | Thai Pot-Roast Chicken |
+| Thai red curry paste | Thai Pot-Roast Chicken |
+| Fish sauce | Thai Pot-Roast Chicken |
+| Beer or cider (440ml can) | Beer Can Chicken |
+| Pomegranate (fresh) | Spicy Middle Eastern Kofte |
 
 ---
 
-## Alternatives & Substitutions
+## Substitutions
 
 | If you don't have… | Use instead |
 | --- | --- |
@@ -97,7 +114,5 @@ These appear across multiple recipes and are worth always having in.
 | Low-cal oil spray | A very light brush of sunflower oil |
 | Flaked sea salt | Fine table salt — use about half the quantity |
 | Vanilla extract | Vanilla bean paste (same quantity) |
-| Red food colouring gel | Liquid colouring — but use bake-stable only, natural colours turn brown |
-| Rice flour | Blitz uncooked rice to a fine powder in a spice grinder or high-powered blender |
-| Pomegranate molasses | Not easily substituted — worth keeping a bottle in |
-| Sumac | A small squeeze of lemon juice gives some of the tartness, but the flavour is different |
+| Rice flour | Blitz uncooked rice to a fine powder in a spice grinder |
+| Sumac | A small squeeze of lemon — similar tartness, different flavour |

@@ -8,7 +8,8 @@ Si's son Alex invented this and rang him the moment he'd tasted it. It's fabulou
 
 **Prep time:** 30 minutes  
 **Cook time:** 2 hours  
-**Serves:** 4–6
+**Serves:** 4–6  
+**Equipment:** Flameproof casserole dish (OnePot ideal), hob, oven
 
 ---
 

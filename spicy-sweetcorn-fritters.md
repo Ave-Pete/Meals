@@ -8,7 +8,8 @@ Crispy little fritters with a kick — great as a starter with the dipping sauce
 **Prep time:** 10 minutes  
 **Cook time:** 15 minutes  
 **Calories:** 57 per fritter  
-**Makes:** 12 fritters
+**Makes:** 12 fritters  
+**Equipment:** Hob, frying pan · Air fryer option below
 
 ---
 
@@ -57,3 +58,7 @@ Crispy little fritters with a kick — great as a starter with the dipping sauce
 
 - Don't crowd the pan — it makes flipping much harder.
 - Coriander stems have more flavour than the leaves and hold up better in the batter.
+
+## Air Fryer
+
+Preheat to 190°C. Line the basket with baking parchment and lightly spray with oil. Dollop heaped tablespoons of batter onto the parchment — don't overlap. Cook for 10–12 minutes, flipping halfway, until golden and set. Do in batches. The result is slightly less crispy than pan-fried but much less faff.

@@ -7,7 +7,8 @@ A simple one-pan Spanish-inspired bake — chicken thighs, potatoes and peppers 
 
 **Prep time:** 10 minutes  
 **Cook time:** 50–60 minutes  
-**Serves:** 6
+**Serves:** 6  
+**Equipment:** Oven, roasting tin
 
 ---
 

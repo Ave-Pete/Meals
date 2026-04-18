@@ -7,7 +7,8 @@ Fabulous enough as regular bhajis, but with the extra flavour from lightly pickl
 
 **Prep time:** 20 minutes + 1 hour pickling  
 **Cook time:** 15 minutes  
-**Serves:** 4
+**Serves:** 4  
+**Equipment:** Hob, deep saucepan or deep-fat fryer · Air fryer option below
 
 ---
 
@@ -76,3 +77,7 @@ Fabulous enough as regular bhajis, but with the extra flavour from lightly pickl
 - If you can't find rice flour, blitz uncooked rice to a fine powder in a spice grinder or high-powered blender. It's the secret to a really crisp batter.
 - To make vegan: use plant-based yoghurt in the batter and for the dipping sauce.
 - Pickling for longer than an hour is fine and adds more depth.
+
+## Air Fryer
+
+Skip the deep-frying oil entirely. Preheat to 180°C. Lightly spray the basket with oil. Shape the bhajis into rough rounds and place in the basket — don't stack them. Spray the tops lightly. Cook for 12–14 minutes, turning once halfway, until deep golden. They won't be quite as crunchy as deep-fried but still very good, and far less hassle. Do in batches if needed.

@@ -8,7 +8,8 @@ A long ingredient list, but well worth making your own masala paste instead of u
 
 **Prep time:** 30 minutes + 4 hours marinating (ideally overnight)  
 **Cook time:** 30 minutes  
-**Serves:** 4
+**Serves:** 4  
+**Equipment:** Hob, grill · Air fryer option for chicken below
 
 ---
 
@@ -84,3 +85,7 @@ A long ingredient list, but well worth making your own masala paste instead of u
 - Ghee gives the most authentic flavour; butter + sunflower oil is a good alternative.
 - Marinating overnight makes a significant difference to the depth of flavour.
 - The sauce can be made a day ahead and kept in the fridge.
+
+## Air Fryer
+
+Use the air fryer instead of the grill for the chicken. Preheat to 200°C. Place the marinated chicken pieces in the basket in a single layer — no skewers needed. Cook for 8–10 minutes, turning once halfway, until cooked through with a little char on the edges. Tip straight into the warm masala sauce as normal. Gets closer to the tandoor effect than a domestic grill does.

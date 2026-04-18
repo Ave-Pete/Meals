@@ -7,7 +7,8 @@ Simple, summery and seriously good. The garlic oil takes minutes to make and kee
 
 **Prep time:** less than 10 minutes  
 **Cook time:** 5–6 minutes  
-**Serves:** 2–3
+**Serves:** 2–3  
+**Equipment:** Grill or BBQ · Air fryer option below
 
 ---
 
@@ -51,3 +52,7 @@ Simple, summery and seriously good. The garlic oil takes minutes to make and kee
 - Cooking chorizo (the soft, raw kind) is essential here — cured chorizo won't work the same way.
 - The garlic oil recipe makes a large batch — it's meant to be made ahead and kept through summer. Scale down if you just want enough for this dish.
 - Also excellent drizzled over bread, grilled vegetables or fish.
+
+## Air Fryer
+
+Preheat to 180°C. Brush the prepared prawns with garlic oil and place in the basket in a single layer. Cook for 6–8 minutes, turning once halfway, until the prawns are pink and the chorizo has crisped at the edges. Finish in the bowl with lime, parsley and more garlic oil as normal. Works well — you lose the slight char of the BBQ but the flavour is still excellent.

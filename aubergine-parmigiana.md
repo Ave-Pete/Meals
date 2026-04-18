@@ -7,7 +7,8 @@ A lighter take on this Italian classic — baking the aubergine instead of fryin
 
 **Prep time:** 20 minutes  
 **Cook time:** 1 hour 15 minutes  
-**Calories:** 325 per serving
+**Calories:** 325 per serving  
+**Equipment:** Oven, hob · Air fryer option for aubergine slices below
 
 ---
 
@@ -57,3 +58,7 @@ A lighter take on this Italian classic — baking the aubergine instead of fryin
 
 - Mixing the oil with water before brushing the aubergines is the key trick for keeping the calorie count down — aubergines are notorious for absorbing oil.
 - Press down firmly between layers when assembling to get a good, compact result.
+
+## Air Fryer
+
+The aubergine slices can be done in the air fryer instead of the oven, which is faster and frees up the oven for the final bake. Preheat to 200°C. Brush the slices with the oil-water mix, season, and cook in batches for 15–18 minutes, flipping halfway, until golden and tender. Then assemble and finish the bake in the oven as normal. With a dual-basket air fryer you can run two batches at once and cut the aubergine prep time significantly.

@@ -7,7 +7,8 @@ A doddle to make and perfect for the barbecue. Serve in a pitta with tzatziki, o
 
 **Prep time:** less than 30 minutes  
 **Cook time:** 10–12 minutes  
-**Makes:** 16
+**Makes:** 16  
+**Equipment:** Oven or BBQ · Air fryer option below
 
 ---
 
@@ -54,3 +55,7 @@ A doddle to make and perfect for the barbecue. Serve in a pitta with tzatziki, o
 - Works equally well with turkey, beef, chicken or pork mince.
 - Sumac and pomegranate molasses are available in most supermarkets (world food aisle) or online.
 - On the barbecue, thread onto skewers instead of baking.
+
+## Air Fryer
+
+Preheat to 180°C. Place the kofte in the basket with a little space between each. Cook for 10–12 minutes, turning once halfway, until cooked through and nicely browned. No need to grease the basket — the meat has enough fat. Works brilliantly in the air fryer; arguably better than the oven as you get a better colour all round.
